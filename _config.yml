@@ -1,25 +1,23 @@
 # The main config file for your Jekyll template
 
 # Site settings
-title: Jackal               # used for the html title of every page
+title: c.c               # used for the html title of every page
 desc: >
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  I’m a data analyst with a background in sustainable development and program direction. 
 
-url: http://jackal.com      # put your website hosting url here
+url: http://christinecepelak.com      # put your website hosting url here
 baseurl: ''                 # the subpath of your site, e.g. /blog
 permalink: /:year/:title/   # how should we display posts url
 
 # Meta settings
-email: jackal@gmail.com
-author: The Jackal
-twitter_username: clenemt
-github_username: clenemt
+email: christinecepelak@gmail.com
+author: christine cepelak
+twitter_username: CLcep
+github_username: ccepelak
 github_source: jackal
 
 # Put your ga tracking code below
-google_analytics: 'UA-XXXXXXXX-X'
+google_analytics: 'UA-99938900-1'
 
 # Pagination settings
 paginate: 5                           # number of posts to show per page
@@ -31,13 +29,10 @@ paginate_path: "/articles/page:num/"  # link scheme for articles, should be letf
 navigation:
   - title: Articles
     url: /articles/
-    desc: Stuffs I write about
+    desc: things I write about
   - title: Projects
     url: /projects/
-    desc: Stuffs I like to do
-  - title: Work
-    url: /work/
-    desc: Stuffs I hate to do
+    desc: things I build
   - title: About
     url: /about/
     desc: Learn about me
