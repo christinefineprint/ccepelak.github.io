@@ -3,9 +3,8 @@ layout: default
 ---
 
 <div class="lead pretty-links">
-  Hi! this is just a sample **intro text**. You would normally put your [full name](about/) here and say something *smart* about yourself.
+  <i>Hi!</i> I’m glad you’re here.
 
-  This could also be the good place to say were you are coming from, what you [do for a living](work/) and maybe what you are [interested in](projects/). You might also be [writing](articles/) about stuff.
+My name is Christine and I’m a Senior Analytics Consultant at Blue Cross Blue Shield, and an Analytics Mentor at Thinkful. I care deeply about social issues and can be found exploring the world’s coffee shops, teaching yoga classes & reading the Great Books in my free time.
 
-  But after all this is your site and I'm just a **placeholder text** so what would i know about some *home page content*.
 </div>
