@@ -8,9 +8,6 @@ permalink: /about/
 
 <div class="pretty-links">
 
-<div class="lead lead-about">I'm a data analyst with a background in program management & social impact. 
-</div>
-
 {::nomarkdown} 
 <figure class="site-profile">
     <img src="{{ site.baseurl }}/ccepelak_cHeadshot.gif">
